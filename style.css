@@ -1,0 +1,195 @@
+.dream{
+display: flex;
+justify-content: space-between;
+background-color:  rgb(97, 61, 16);
+color: white;
+ margin-left: -10px;
+ margin-right: -8px;
+padding-top: 1px;
+margin-top: -8px;
+padding-bottom: 3px; 
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li a{
+text-decoration: none;
+color: white;
+}
+li{
+    display: inline;
+    justify-content: right;
+    margin-left: 40px;
+   
+}
+ul{
+    margin-right: 70px;
+    
+}
+.dream p{
+    margin-left: 50px;
+    margin-bottom: -25px;
+}
+button{
+    width: 90px;
+    margin-left: 30px;
+    height: 34px;
+    border-radius: 20px;
+  color: rgb(97, 61, 16);  
+  border: rgb(97, 61, 16) solid 1px;
+}
+.deed img{
+margin-bottom: -10px;
+margin-left: 20px;
+}
+.jus img{
+    margin-bottom: -10px;
+}
+.job{
+margin-bottom: -5px;
+}
+.pop{
+margin-left: 45px;
+font-size: 40px;
+font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.deed{
+padding: 5px;
+}
+.koke{
+    color: rgb(97, 61, 16);
+}
+.lopw{
+    margin-left: 45px;
+font-family: 'Times New Roman', Times, serif ;
+font-size: 17px;
+margin-top: -20px;
+}
+.jump{
+    height: 500px;
+}
+.bob-the-builder{
+    color: white;
+    background-color: #613d10;
+    font-weight: bold;
+    font-size: 25px;
+    width: 220px;
+    height: 73px;
+    border-radius: 32px;
+    margin-left: 45px;
+}
+.tip{
+    margin-top: -200px;
+}
+.mito{
+background-color: rgb(255, 247, 247);
+border-radius: 80px;
+margin-left: 60px;
+margin-right: 60px;
+padding-bottom: 60px;
+background-image: linear-gradient(rgb(152, 240, 255), rgb(129, 184, 199));
+}
+.mito .for{
+    margin-left: 30px;
+    font-size: 25px;
+    padding: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tis{
+display: flex;
+align-items:flex-end;
+justify-content: flex-end;
+margin-top: -375px;
+}
+.first img{
+height: 480px;
+width: 420px;
+border-radius: 20px;
+margin-top: -25px;
+margin-left: 10px;
+border: black solid 2px;
+}
+.second img{
+    height: 480px;
+    width: 420px;
+    border-radius: 20px;
+    margin-top: -25px;
+    margin-left: 90px;
+    border: black solid 2px;
+} 
+.cv{
+    display: flex;
+    justify-content: space-around;
+}
+.fluffy{
+margin-top: -115px;
+color: white;
+font-size: 23px;
+margin-left: 150px;
+}
+.jip{
+    margin-top: -20px;
+    color: white;
+    font-size: 23px;
+    margin-left: 180px;
+    }
+.lip{
+    margin-top: -115px;
+    color: white;
+    font-size: 23px;
+    margin-left: 230px;
+    }
+.jipp{
+     margin-top: -20px;
+    color: white;
+    font-size: 23px;
+    margin-left: 270px;
+    }
+    .trea{
+        width: 130px;
+        height: 40px;
+        border: black solid 1px;
+        font-weight: bold;
+        margin-top: 80px;
+        margin-left: 570px;
+    }
+    .yupo{
+        margin-left: -23px;
+        font-size: 25px;
+        padding: 70px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    }
+    .trump{
+        height: 500px;
+        width: 350px;
+        border-radius: 25px;
+        border: black solid 1px;
+    }
+    
+    .itis{
+        height: 500px;
+        width: 350px;
+        border-radius: 25px;
+        border: black solid 1px;
+    }
+    
+    
+    .itiss{
+        height: 500px;
+        width: 350px;
+        border-radius: 25px;
+        border: black solid 1px;
+    }
+    .bobby{
+        display: flex;
+        justify-content: space-around;
+        margin-top: -40px;
+    }
+    .clue{
+padding-top: 50px;
+margin-left: 55px;
+
+    }
+    
+
+
+
+ 
